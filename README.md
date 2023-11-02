@@ -2,7 +2,7 @@
 Esta atividade consistia em aplicar melhorias a um código pronto de acordo com o solicitado.
 A SENHA SOLICITADA É: 3589.
 
- O código base se encontra na pasta material_base. as melhorias solicitadas eram:
+ O código base se encontra na pasta material_base. As melhorias solicitadas foram:
 
 - Ao acessar o sistema, pergunte o nome do usuário e diga "Olá {Nome} é um prazer ter você por aqui!".
 
